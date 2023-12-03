@@ -703,12 +703,10 @@ box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
 }
 
 .contacts-form-checkbox-label {
-    display: flex;
-    align-items:center;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
-    color: rgba(142, 143, 153, 1);
+    color: #8e8f99;
 }
 
 .contacts-form-own-checkbox {
